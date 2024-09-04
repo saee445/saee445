@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @rutuja
-- 👀 I’m interested in learning coding languages
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- "Gaining proficiency in coding languages."
+- "Wrapped up my Python programming language."
+- Done with 2 mini and 2 mega projects. 
+- Consistently solving problems on GFG platform...
+
 
 <!---
 saee445/saee445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
